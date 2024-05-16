@@ -1,12 +1,9 @@
 <script setup>
-import Nav from './components/Navbar.vue'
-
+import Nav from "./components/Navbar.vue";
 </script>
 
 <template>
   <header>
-  
-
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
     </div>
@@ -16,4 +13,3 @@ import Nav from './components/Navbar.vue'
     <Nav />
   </main>
 </template>
-
